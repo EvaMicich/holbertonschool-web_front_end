@@ -172,7 +172,7 @@ ul.row {
   float: left;
   padding: 0.5rem;
 }
-html[data-section-theme="dark"] {
+[data-section-theme="dark"] {
   var(--text-color): var(--color-white);
   var(--section-title-color): var(--color-white);
   background-color: var(--color-black);
