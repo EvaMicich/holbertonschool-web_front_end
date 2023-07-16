@@ -244,7 +244,7 @@ ul.row {
   text-decoration: var(--button-hover-text-decoration);
   background-color: var(--button-hover-background);
   transition: var(--transition-duration);
-  transition-property: color, backgound-color;
+  transition-property: color, background-color;
 }
 .card-testimonial {
   text-align: center;
@@ -342,5 +342,5 @@ ul.row {
 }
 
 .card-work:hover .card-outer {
-  transform: scale(0.9);
+  transform: scale(0.95);
 }
